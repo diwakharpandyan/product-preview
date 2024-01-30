@@ -104,6 +104,6 @@ main {
   .product-description {
     flex-basis: 60%;
     padding: 1.5rem;
-    font-size: smaller;
+    justify-content: space-around;
   }
 }
